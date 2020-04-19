@@ -800,4 +800,7 @@
   <!-- Lineage Stuff -->
   <include name="goodies/lineage.xml" />
 
+  <!-- Xperia Stuff -->
+  <include name="goodies/xperia.xml" />
+
 </manifest>

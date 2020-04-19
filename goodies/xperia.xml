@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Xperia remote -->
+  <remote name="xperia"
+          fetch="https://github.com/xperiaos-beta"
+          revision="q" />
+
+
+  <project path="frameworks/base" name="frameworks_base" revision="q" remote="xperia" />
+  <project path="packages/apps/Dialer" name="packages_apps_Dialer" revision="q" remote="xperia" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" revision="q" remote="xperia" />
+  <project path="vendor/lucid" name="vendor_lucid" revision="q" remote="xperia" />
+  <project path="vendor/gapps" name="EnesSastim/vendor_gapps" revision="q" remote="gitlab" clone-depth="1" />
+  <project path="vendor/xperia" name="vendor_xperia" revision="q" remote="xperia" />
+
+</manifest>

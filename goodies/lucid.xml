@@ -37,7 +37,6 @@
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="platform_frameworks_av" remote="lucid"/>
-  <project path="frameworks/base" name="platform_frameworks_base" remote="lucid"/>
   <project path="frameworks/native" name="platform_frameworks_native" remote="lucid"/>
   <project path="frameworks/opt/telephony" name="platform_frameworks_opt_telephony" remote="lucid" />
   <project path="frameworks/opt/net/ims" name="platform_frameworks_opt_net_ims" remote="lucid" />
@@ -104,7 +103,6 @@
   <project path="packages/apps/Nfc" name="platform_packages_apps_Nfc" remote="lucid" />
   <project path="packages/apps/PermissionController" name="platform_packages_apps_PackageInstaller" remote="lucid" />
   <project path="packages/apps/PhoneCommon" name="platform_packages_apps_PhoneCommon" remote="lucid" />
-  <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="lucid" />
   <project path="packages/apps/SettingsIntelligence" name="platform_packages_apps_SettingsIntelligence" remote="lucid" />
   <project path="packages/apps/ThemePicker" name="platform_packages_apps_ThemePicker" remote="lucid" />
   <project path="packages/providers/DownloadProvider" name="platform_packages_providers_DownloadProvider" remote="lucid" />
@@ -112,7 +110,6 @@
   <project path="packages/services/Telephony" name="platform_packages_services_Telephony" remote="lucid" />
 
   <!-- Vendor -->
-  <project path="vendor/lucid" name="platform_vendor_lucid" remote="lucid" />
   <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="lucid" />
   <project path="vendor/nxp/opensource/interfaces/nfc" name="platform_vendor_nxp_interfaces_opensource_nfc" remote="lucid" />
   <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="platform_vendor_nxp_opensource_external_libnfc-nci" remote="lucid" />
